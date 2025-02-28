@@ -1,1 +1,2 @@
 # Portfolio
+A portfolio project description is a summary or overview of a specific project that you've worked on, showcasing your skills, the problem you solved, the methods you used, and the results or impact of the project. The goal is to highlight your expertise and demonstrate your ability to execute tasks or projects in your field, whether it’s web development, graphic design, data analysis, writing, etc.
